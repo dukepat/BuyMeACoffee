@@ -42,7 +42,7 @@ export default function Home() {
       console.log("error: ", error);
     }
   }
-
+// some comment here
   const connectWallet = async () => {
     try {
       const {ethereum} = window;
